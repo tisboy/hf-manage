@@ -1,0 +1,2 @@
+# hf-manage
+disconf动态配置ThreadPoolExecutor的corePoolSize、maxPoolSize等
